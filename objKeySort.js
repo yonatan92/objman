@@ -1,5 +1,15 @@
 const keySort = (obj) => {
-  console.log(Object.keys(obj).sort());
+  const sortObj = Object.keys(obj)
+    .sort()
+    .reduce(
+      (acc, key) => ({
+        ...acc,
+        [key]: obj[key],
+      }),
+      {}
+    );
+
+  return sortObj;
 };
 
-keySort({ a: 1, 1: 2 });
+keySort({ b: 1, a: 2 });
