@@ -1,30 +1,30 @@
-# Read Me Template
+# objman-object manipulation
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> As a beginner software engineer ן was looking for ways I could contribute and integrate in the open source community and i find it difficult to find issues or projects for
+> beginners that i can contribute. I decided to open new project for begginers that we all can contribute. feel free to add featurs and ask for pull requests.
 
 ---
 
 ### Table of Contents
+
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
-- [Author Info](#author-info)
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+objman -> object manipulation, the propuse of this code is to sort object properties, for example: sort the key by alphbet or by the length of the key and so on and so on.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- java scripe
 
 [Back To The Top](#read-me-template)
 
@@ -34,18 +34,18 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 #### Installation
 
-
-
 #### API Reference
 
 ```html
-    <p>dummy code</p>
+<p>dummy code</p>
 ```
+
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
+
 [Back To The Top](#read-me-template)
 
 ---
@@ -54,7 +54,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [Yonathan Kurin]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -77,10 +77,5 @@ SOFTWARE.
 [Back To The Top](#read-me-template)
 
 ---
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
